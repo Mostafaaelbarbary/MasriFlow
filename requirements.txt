@@ -1,0 +1,4 @@
+streamlit>=1.37,<2
+openai-whisper
+streamlit-webrtc>=0.77,<1
+requests>=2.27,<3

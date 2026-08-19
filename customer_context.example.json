@@ -1,0 +1,13 @@
+{
+  "customer_id": "C-0001",
+  "call_receiver": "اسم مستقبل المكالمة",
+  "borrower_name": "اسم المقترض",
+  "is_guarantor": false,
+  "payment_amount": null,
+  "due_date": null,
+  "remaining_installments": null,
+  "outstanding_balance": null,
+  "last_payment_date": null,
+  "last_paid_amount": null,
+  "allowed_commitment_days": 2
+}
